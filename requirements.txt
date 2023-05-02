@@ -1,5 +1,3 @@
-"numpy==<version>" 
 "pandas==<version>" 
 "scikit-learn==<version>" 
-"streamlit==<version>" 
-"numpy==<version>" 
+"streamlit==<version>"
