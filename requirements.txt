@@ -1,3 +1,0 @@
-"pandas==<version>" 
-"scikit-learn==<version>" 
-"streamlit==<version>"
